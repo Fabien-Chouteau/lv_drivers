@@ -17,7 +17,7 @@
 #include <stdbool.h>
 #include <string.h>
 #include MONITOR_SDL_INCLUDE_PATH
-#include "lvgl/lv_core/lv_vdb.h"
+#include "lv_core/lv_vdb.h"
 #include "../indev/mouse.h"
 #include "../indev/keyboard.h"
 #include "../indev/encoder.h"

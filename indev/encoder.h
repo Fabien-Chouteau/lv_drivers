@@ -22,7 +22,7 @@ extern "C" {
 #if USE_ENCODER
 
 #include <stdbool.h>
-#include "lvgl/lv_hal/lv_hal_indev.h"
+#include "lv_hal/lv_hal_indev.h"
 
 #ifndef MONITOR_SDL_INCLUDE_PATH
 #define MONITOR_SDL_INCLUDE_PATH <SDL2/SDL.h>

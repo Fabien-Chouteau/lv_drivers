@@ -9,7 +9,7 @@
 #include "encoder.h"
 #if USE_ENCODER
 
-#include "lvgl/lv_core/lv_group.h"
+#include "lv_core/lv_group.h"
 /*********************
  *      DEFINES
  *********************/

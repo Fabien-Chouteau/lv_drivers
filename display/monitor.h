@@ -21,7 +21,7 @@ extern "C" {
 
 #if USE_MONITOR
 
-#include "lvgl/lv_misc/lv_color.h"
+#include "lv_misc/lv_color.h"
 
 /*********************
  *      DEFINES

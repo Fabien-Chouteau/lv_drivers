@@ -17,7 +17,7 @@
 #include <linux/fb.h>
 #include <sys/mman.h>
 #include <sys/ioctl.h>
-#include "lvgl/lv_core/lv_vdb.h"
+#include "lv_core/lv_vdb.h"
 
 /*********************
  *      DEFINES

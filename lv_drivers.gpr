@@ -1,0 +1,13 @@
+abstract project LV_Drivers is
+ 
+  for Languages use ();
+  
+  for Source_Dirs use (Project'Project_Dir & "display", 
+                       Project'Project_Dir & "indev",
+                       Project'Project_Dir);
+
+  for Object_Dir use "obj";
+
+  for Create_Missing_Dirs use "True";
+
+end LV_Drivers;
